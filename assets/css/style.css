@@ -1,3 +1,5 @@
+/**with more time i would have fixed the issues with responsiveness**/
+
 h1,
 h2,
 h3,
@@ -231,3 +233,25 @@ ul {
   list-style-type: none;
   padding-left: 0;
 }
+
+@media(min-width:1200px){}
+
+@media(min-width:992px){}
+
+@media(min-width:768px){
+  .panel {
+    width: 100%;
+  }
+
+}
+
+@media(max-width:767px){
+  .panel {
+    width: 100%;
+  }
+} 
+
+ 
+
+ 
+
